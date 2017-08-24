@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Images/openDir.png</file>
+    </qresource>
+</RCC>
